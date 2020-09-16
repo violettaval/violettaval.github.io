@@ -1,0 +1,15 @@
+h1 {
+    font-style: bold;
+    font-size: 22px;
+    background: green;
+    width: 100%;
+    position: fixed;
+    align-content: center;
+}
+
+
+
+p {color:green;
+    font-family: sans-serif;}
+h2 {color: rgb(124, 255, 91);}
+ul {font-style:bold;}
